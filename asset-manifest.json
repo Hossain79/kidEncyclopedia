@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/kidEncyclopedia/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/kidEncyclopedia/static/js/main.2840c5d5.chunk.js",
-    "main.js.map": "/kidEncyclopedia/static/js/main.2840c5d5.chunk.js.map",
+    "main.js": "/kidEncyclopedia/static/js/main.da3a5765.chunk.js",
+    "main.js.map": "/kidEncyclopedia/static/js/main.da3a5765.chunk.js.map",
     "runtime-main.js": "/kidEncyclopedia/static/js/runtime-main.b0a67c76.js",
     "runtime-main.js.map": "/kidEncyclopedia/static/js/runtime-main.b0a67c76.js.map",
-    "static/js/2.d01596ef.chunk.js": "/kidEncyclopedia/static/js/2.d01596ef.chunk.js",
-    "static/js/2.d01596ef.chunk.js.map": "/kidEncyclopedia/static/js/2.d01596ef.chunk.js.map",
+    "static/js/2.bc2edd77.chunk.js": "/kidEncyclopedia/static/js/2.bc2edd77.chunk.js",
+    "static/js/2.bc2edd77.chunk.js.map": "/kidEncyclopedia/static/js/2.bc2edd77.chunk.js.map",
     "static/js/3.3b8bfd06.chunk.js": "/kidEncyclopedia/static/js/3.3b8bfd06.chunk.js",
     "static/js/3.3b8bfd06.chunk.js.map": "/kidEncyclopedia/static/js/3.3b8bfd06.chunk.js.map",
     "index.html": "/kidEncyclopedia/index.html",
     "static/css/main.ab7136cd.chunk.css.map": "/kidEncyclopedia/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.d01596ef.chunk.js.LICENSE.txt": "/kidEncyclopedia/static/js/2.d01596ef.chunk.js.LICENSE.txt",
+    "static/js/2.bc2edd77.chunk.js.LICENSE.txt": "/kidEncyclopedia/static/js/2.bc2edd77.chunk.js.LICENSE.txt",
     "static/media/logo.103b5fa1.svg": "/kidEncyclopedia/static/media/logo.103b5fa1.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.b0a67c76.js",
-    "static/js/2.d01596ef.chunk.js",
+    "static/js/2.bc2edd77.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.2840c5d5.chunk.js"
+    "static/js/main.da3a5765.chunk.js"
   ]
 }
