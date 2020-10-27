@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/kidEncyclopedia/static/css/main.fd448521.chunk.css",
-    "main.js": "/kidEncyclopedia/static/js/main.7b65b750.chunk.js",
-    "main.js.map": "/kidEncyclopedia/static/js/main.7b65b750.chunk.js.map",
+    "main.js": "/kidEncyclopedia/static/js/main.b212f2f5.chunk.js",
+    "main.js.map": "/kidEncyclopedia/static/js/main.b212f2f5.chunk.js.map",
     "runtime-main.js": "/kidEncyclopedia/static/js/runtime-main.bf70176c.js",
     "runtime-main.js.map": "/kidEncyclopedia/static/js/runtime-main.bf70176c.js.map",
     "static/js/2.34a8b253.chunk.js": "/kidEncyclopedia/static/js/2.34a8b253.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.bf70176c.js",
     "static/js/2.34a8b253.chunk.js",
     "static/css/main.fd448521.chunk.css",
-    "static/js/main.7b65b750.chunk.js"
+    "static/js/main.b212f2f5.chunk.js"
   ]
 }
