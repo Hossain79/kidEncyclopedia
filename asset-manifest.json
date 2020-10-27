@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/kidEncyclopedia/static/css/main.d9c36fd3.chunk.css",
-    "main.js": "/kidEncyclopedia/static/js/main.6549a358.chunk.js",
-    "main.js.map": "/kidEncyclopedia/static/js/main.6549a358.chunk.js.map",
-    "runtime-main.js": "/kidEncyclopedia/static/js/runtime-main.d69ff5a1.js",
-    "runtime-main.js.map": "/kidEncyclopedia/static/js/runtime-main.d69ff5a1.js.map",
-    "static/js/2.b266c886.chunk.js": "/kidEncyclopedia/static/js/2.b266c886.chunk.js",
-    "static/js/2.b266c886.chunk.js.map": "/kidEncyclopedia/static/js/2.b266c886.chunk.js.map",
-    "static/js/3.6f64f02f.chunk.js": "/kidEncyclopedia/static/js/3.6f64f02f.chunk.js",
-    "static/js/3.6f64f02f.chunk.js.map": "/kidEncyclopedia/static/js/3.6f64f02f.chunk.js.map",
+    "main.css": "/kidEncyclopedia/static/css/main.5b69dc99.chunk.css",
+    "main.js": "/kidEncyclopedia/static/js/main.02bdeb26.chunk.js",
+    "main.js.map": "/kidEncyclopedia/static/js/main.02bdeb26.chunk.js.map",
+    "runtime-main.js": "/kidEncyclopedia/static/js/runtime-main.bf70176c.js",
+    "runtime-main.js.map": "/kidEncyclopedia/static/js/runtime-main.bf70176c.js.map",
+    "static/js/2.34a8b253.chunk.js": "/kidEncyclopedia/static/js/2.34a8b253.chunk.js",
+    "static/js/2.34a8b253.chunk.js.map": "/kidEncyclopedia/static/js/2.34a8b253.chunk.js.map",
+    "static/js/3.ef132b88.chunk.js": "/kidEncyclopedia/static/js/3.ef132b88.chunk.js",
+    "static/js/3.ef132b88.chunk.js.map": "/kidEncyclopedia/static/js/3.ef132b88.chunk.js.map",
     "index.html": "/kidEncyclopedia/index.html",
-    "static/css/main.d9c36fd3.chunk.css.map": "/kidEncyclopedia/static/css/main.d9c36fd3.chunk.css.map",
-    "static/js/2.b266c886.chunk.js.LICENSE.txt": "/kidEncyclopedia/static/js/2.b266c886.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/kidEncyclopedia/static/media/logo.103b5fa1.svg"
+    "static/css/main.5b69dc99.chunk.css.map": "/kidEncyclopedia/static/css/main.5b69dc99.chunk.css.map",
+    "static/js/2.34a8b253.chunk.js.LICENSE.txt": "/kidEncyclopedia/static/js/2.34a8b253.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d69ff5a1.js",
-    "static/js/2.b266c886.chunk.js",
-    "static/css/main.d9c36fd3.chunk.css",
-    "static/js/main.6549a358.chunk.js"
+    "static/js/runtime-main.bf70176c.js",
+    "static/js/2.34a8b253.chunk.js",
+    "static/css/main.5b69dc99.chunk.css",
+    "static/js/main.02bdeb26.chunk.js"
   ]
 }
