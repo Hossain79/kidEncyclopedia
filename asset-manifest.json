@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/kidEncyclopedia/static/css/main.fd448521.chunk.css",
+    "main.css": "/kidEncyclopedia/static/css/main.ed443bd2.chunk.css",
     "main.js": "/kidEncyclopedia/static/js/main.b212f2f5.chunk.js",
     "main.js.map": "/kidEncyclopedia/static/js/main.b212f2f5.chunk.js.map",
     "runtime-main.js": "/kidEncyclopedia/static/js/runtime-main.bf70176c.js",
@@ -10,13 +10,13 @@
     "static/js/3.ef132b88.chunk.js": "/kidEncyclopedia/static/js/3.ef132b88.chunk.js",
     "static/js/3.ef132b88.chunk.js.map": "/kidEncyclopedia/static/js/3.ef132b88.chunk.js.map",
     "index.html": "/kidEncyclopedia/index.html",
-    "static/css/main.fd448521.chunk.css.map": "/kidEncyclopedia/static/css/main.fd448521.chunk.css.map",
+    "static/css/main.ed443bd2.chunk.css.map": "/kidEncyclopedia/static/css/main.ed443bd2.chunk.css.map",
     "static/js/2.34a8b253.chunk.js.LICENSE.txt": "/kidEncyclopedia/static/js/2.34a8b253.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bf70176c.js",
     "static/js/2.34a8b253.chunk.js",
-    "static/css/main.fd448521.chunk.css",
+    "static/css/main.ed443bd2.chunk.css",
     "static/js/main.b212f2f5.chunk.js"
   ]
 }
